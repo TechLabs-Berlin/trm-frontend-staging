@@ -1,28 +1,36 @@
 {
   "files": {
     "main.css": "/static/css/main.b4080774.chunk.css",
-    "main.js": "/static/js/main.abca1bc7.chunk.js",
-    "main.js.map": "/static/js/main.abca1bc7.chunk.js.map",
+    "main.js": "/static/js/main.c383e872.chunk.js",
+    "main.js.map": "/static/js/main.c383e872.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ccdb994c.js",
     "runtime-main.js.map": "/static/js/runtime-main.ccdb994c.js.map",
     "static/css/2.8a005bbb.chunk.css": "/static/css/2.8a005bbb.chunk.css",
-    "static/js/2.0a43024b.chunk.js": "/static/js/2.0a43024b.chunk.js",
-    "static/js/2.0a43024b.chunk.js.map": "/static/js/2.0a43024b.chunk.js.map",
+    "static/js/2.9b152b93.chunk.js": "/static/js/2.9b152b93.chunk.js",
+    "static/js/2.9b152b93.chunk.js.map": "/static/js/2.9b152b93.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.87693c6be1ef45c6bb28161e4dbf4f7d.js": "/precache-manifest.87693c6be1ef45c6bb28161e4dbf4f7d.js",
+    "precache-manifest.50f9e6f11f4a76dddfc008fbdfc26009.js": "/precache-manifest.50f9e6f11f4a76dddfc008fbdfc26009.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.8a005bbb.chunk.css.map": "/static/css/2.8a005bbb.chunk.css.map",
     "static/css/main.b4080774.chunk.css.map": "/static/css/main.b4080774.chunk.css.map",
-    "static/js/2.0a43024b.chunk.js.LICENSE.txt": "/static/js/2.0a43024b.chunk.js.LICENSE.txt",
+    "static/js/2.9b152b93.chunk.js.LICENSE.txt": "/static/js/2.9b152b93.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/nunito-sans-latin-900italic.708845e8.woff",
     "static/media/techlabs-icon-white.28fe6921.svg": "/static/media/techlabs-icon-white.28fe6921.svg",
-    "static/media/techlabs-logo.60a82074.svg": "/static/media/techlabs-logo.60a82074.svg"
+    "static/media/techlabs-logo.60a82074.svg": "/static/media/techlabs-logo.60a82074.svg",
+    "static/media/track-ai-grey.6152b23e.svg": "/static/media/track-ai-grey.6152b23e.svg",
+    "static/media/track-ai.055896dc.svg": "/static/media/track-ai.055896dc.svg",
+    "static/media/track-ds-grey.128005a0.svg": "/static/media/track-ds-grey.128005a0.svg",
+    "static/media/track-ds.d3cacfa7.svg": "/static/media/track-ds.d3cacfa7.svg",
+    "static/media/track-ux-grey.6d9c4a6f.svg": "/static/media/track-ux-grey.6d9c4a6f.svg",
+    "static/media/track-ux.eeabf74b.svg": "/static/media/track-ux.eeabf74b.svg",
+    "static/media/track-webdev-grey.1753b344.svg": "/static/media/track-webdev-grey.1753b344.svg",
+    "static/media/track-webdev.9b1fbeb6.svg": "/static/media/track-webdev.9b1fbeb6.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.ccdb994c.js",
     "static/css/2.8a005bbb.chunk.css",
-    "static/js/2.0a43024b.chunk.js",
+    "static/js/2.9b152b93.chunk.js",
     "static/css/main.b4080774.chunk.css",
-    "static/js/main.abca1bc7.chunk.js"
+    "static/js/main.c383e872.chunk.js"
   ]
 }
