@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.324744d2.chunk.css",
-    "main.js": "/static/js/main.92166762.chunk.js",
-    "main.js.map": "/static/js/main.92166762.chunk.js.map",
+    "main.js": "/static/js/main.81743760.chunk.js",
+    "main.js.map": "/static/js/main.81743760.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.656d3434.js",
     "runtime-main.js.map": "/static/js/runtime-main.656d3434.js.map",
     "static/css/2.cd6b6eb0.chunk.css": "/static/css/2.cd6b6eb0.chunk.css",
-    "static/js/2.521e0abd.chunk.js": "/static/js/2.521e0abd.chunk.js",
-    "static/js/2.521e0abd.chunk.js.map": "/static/js/2.521e0abd.chunk.js.map",
+    "static/js/2.80370dbc.chunk.js": "/static/js/2.80370dbc.chunk.js",
+    "static/js/2.80370dbc.chunk.js.map": "/static/js/2.80370dbc.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.cd6b6eb0.chunk.css.map": "/static/css/2.cd6b6eb0.chunk.css.map",
     "static/css/main.324744d2.chunk.css.map": "/static/css/main.324744d2.chunk.css.map",
-    "static/js/2.521e0abd.chunk.js.LICENSE.txt": "/static/js/2.521e0abd.chunk.js.LICENSE.txt",
+    "static/js/2.80370dbc.chunk.js.LICENSE.txt": "/static/js/2.80370dbc.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/nunito-sans-latin-900italic.2e22e084.woff",
     "static/media/techlabs-icon-white.4dd86bad.svg": "/static/media/techlabs-icon-white.4dd86bad.svg",
     "static/media/techlabs-logo.ff3f6d0b.svg": "/static/media/techlabs-logo.ff3f6d0b.svg",
@@ -27,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.656d3434.js",
     "static/css/2.cd6b6eb0.chunk.css",
-    "static/js/2.521e0abd.chunk.js",
+    "static/js/2.80370dbc.chunk.js",
     "static/css/main.324744d2.chunk.css",
-    "static/js/main.92166762.chunk.js"
+    "static/js/main.81743760.chunk.js"
   ]
 }
